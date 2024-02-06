@@ -4,7 +4,7 @@ go 1.21.6
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/zmap/zcrypto v0.0.0-20230922174353-72485cd89876
+	github.com/zmap/zcrypto a1f61fb1661c
 	github.com/zmap/zlint/v3 v3.6.0
 )
 
