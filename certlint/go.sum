@@ -101,6 +101,8 @@ github.com/zmap/zcrypto v0.0.0-20201128221613-3719af1573cf/go.mod h1:aPM7r+JOkfL
 github.com/zmap/zcrypto v0.0.0-20201211161100-e54a5822fb7e/go.mod h1:aPM7r+JOkfL+9qSB4KbYjtoEzJqUK50EXkkJabeNJDQ=
 github.com/zmap/zcrypto v0.0.0-20230922174353-72485cd89876 h1:CMz05whcCU8c7G4s+eMhjOhTOVWw8ZfYrQb0lz1XdaQ=
 github.com/zmap/zcrypto v0.0.0-20230922174353-72485cd89876/go.mod h1:Z2SNNuFhO+AAsezbGEHTWeW30hHv5niUYT3fwJ61Nl0=
+github.com/zmap/zcrypto v0.0.0-20231219022726-a1f61fb1661c h1:U1b4THKcgOpJ+kILupuznNwPiURtwVW3e9alJvji9+s=
+github.com/zmap/zcrypto v0.0.0-20231219022726-a1f61fb1661c/go.mod h1:GSDpFDD4TASObxvfZfvpZZ3OWHIUHMlhVWlkOe4ewVk=
 github.com/zmap/zlint/v3 v3.0.0/go.mod h1:paGwFySdHIBEMJ61YjoqT4h7Ge+fdYG4sUQhnTb1lJ8=
 github.com/zmap/zlint/v3 v3.5.0 h1:Eh2B5t6VKgVH0DFmTwOqE50POvyDhUaU9T2mJOe1vfQ=
 github.com/zmap/zlint/v3 v3.5.0/go.mod h1:JkNSrsDJ8F4VRtBZcYUQSvnWFL7utcjDIn+FE64mlBI=
@@ -164,6 +166,7 @@ golang.org/x/term v0.5.0/go.mod h1:jMB1sMXY+tzblOD4FWmEbocvup2/aLOaQEp7JmGp78k=
 golang.org/x/term v0.6.0/go.mod h1:m6U89DPEgQRMq3DNkDClhWw02AUbt2daBVO4cn4Hv9U=
 golang.org/x/term v0.8.0/go.mod h1:xPskH00ivmX89bAKVGSKKtLOWNx2+17Eiy94tnKShWo=
 golang.org/x/term v0.10.0/go.mod h1:lpqdcUyK/oCiQxvxVrppt5ggO2KCZ5QblwqPnfZ6d5o=
+golang.org/x/term v0.15.0/go.mod h1:BDl952bC7+uMoWR75FIrCDx79TPU9oHkTZ9yRbYOrX0=
 golang.org/x/text v0.3.0/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
 golang.org/x/text v0.3.2/go.mod h1:bEr9sfX3Q8Zfm5fL9x+3itogRgK3+ptLWKqgva+5dAk=
 golang.org/x/text v0.3.3/go.mod h1:5Zoc/QRtKVWzQhOtBMvqHzDpF6irO9z98xDceosuGiQ=

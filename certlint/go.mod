@@ -1,10 +1,10 @@
 module certlint
 
-go 1.21.6
+go 1.23.2
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/zmap/zcrypto a1f61fb1661c
+	github.com/zmap/zcrypto v0.0.0-20231219022726-a1f61fb1661c
 	github.com/zmap/zlint/v3 v3.6.0
 )
 
