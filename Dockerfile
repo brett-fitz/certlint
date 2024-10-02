@@ -1,5 +1,5 @@
 # This is a microservice that is intended to be used in a sidecar model
-FROM golang:1.21.6-bullseye
+FROM golang:1.23.2-bullseye
 
 RUN apt-get update -y && apt-get upgrade -y
 
