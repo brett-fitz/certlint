@@ -4,8 +4,8 @@ go 1.21.6
 
 require (
 	github.com/gin-gonic/gin v1.9.1
-	github.com/zmap/zcrypto a1f61fb1661c
-	github.com/zmap/zlint/v3 v3.6.0
+	github.com/zmap/zcrypto v0.0.0-20231219022726-a1f61fb1661c
+	github.com/zmap/zlint/v3 v3.6.4
 )
 
 require (
@@ -29,9 +29,9 @@ require (
 	github.com/ugorji/go/codec v1.2.11 // indirect
 	github.com/weppos/publicsuffix-go v0.30.2-0.20230730094716-a20f9abcc222 // indirect
 	golang.org/x/arch v0.3.0 // indirect
-	golang.org/x/crypto v0.17.0 // indirect
-	golang.org/x/net v0.17.0 // indirect
-	golang.org/x/sys v0.15.0 // indirect
+	golang.org/x/crypto v0.21.0 // indirect
+	golang.org/x/net v0.23.0 // indirect
+	golang.org/x/sys v0.18.0 // indirect
 	golang.org/x/text v0.14.0 // indirect
 	google.golang.org/protobuf v1.30.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
